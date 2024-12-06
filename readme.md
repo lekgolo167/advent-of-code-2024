@@ -27,7 +27,7 @@ Here's my progress so far:
 [![Day](https://badgen.net/badge/02/%E2%98%85%E2%98%85/green)](./day-02/p1.py)
 [![Day](https://badgen.net/badge/03/%E2%98%85%E2%98%85/green)](./day-03/p1.py)
 [![Day](https://badgen.net/badge/04/%E2%98%85%E2%98%85/green)](./day-04/p1.py)
-[![Day](https://badgen.net/badge/05/%E2%98%85%E2%98%85/gray)](./day-05)
+[![Day](https://badgen.net/badge/05/%E2%98%85%E2%98%85/green)](./day-05/p1.py)
 [![Day](https://badgen.net/badge/06/%E2%98%85%E2%98%85/gray)](./day-06)
 [![Day](https://badgen.net/badge/07/%E2%98%85%E2%98%85/gray)](./day-07)
 [![Day](https://badgen.net/badge/08/%E2%98%86%E2%98%86/gray)](./day-08)
@@ -50,7 +50,7 @@ Here's my progress so far:
 [![Day](https://badgen.net/badge/25/%E2%98%86%E2%98%86/gray)](./day-25)
 
 ## Star Collection 
-Stars collected: **8/50**⭐
+Stars collected: **10/50**⭐
 
 ## Solutions
 
