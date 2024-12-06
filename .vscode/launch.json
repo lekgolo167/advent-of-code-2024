@@ -10,7 +10,8 @@
 			"request": "launch",
 			"program": "${file}",
 			"console": "integratedTerminal",
-			"cwd": "./day 2",
+			"cwd": "./day-05",
+			"args": ["./example.txt"],
 			"justMyCode": true
 		}
 	]
